@@ -101,13 +101,13 @@ body {
 .derecha {
     float: right;
     position: relative;
-    top: 60px;
+    top: 20px;
 }
 
 .izquierda {
     float: left;
     position: relative;
-    top: 22px;
+    top: -5px;
 }
 
 .contenedor-guitarra-a {
